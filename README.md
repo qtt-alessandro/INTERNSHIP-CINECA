@@ -37,7 +37,7 @@ Finally, after identifying the genes that most determined the classification of 
 
    
 ### Support
-<p>If you have problems viewing one of the Jupyter notebooks, please consider viewing them using nbviewer at the following [link](https://nbviewer.jupyter.org/). <br />
+<p>If you have problems viewing one of the Jupyter notebooks, please consider viewing them using nbviewer at the following <a href="https://nbviewer.jupyter.org/">link</a> <br />
 Just copy the link of the notebook on Git and then press "Go!" to view it. 
 </p>
 

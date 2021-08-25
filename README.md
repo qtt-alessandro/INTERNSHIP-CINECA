@@ -33,6 +33,6 @@ Finally, after identifying the genes that most determined the classification of 
 
 
 <p align="right">
-**Author** Alessandro Quattrociocchi
+\textbf{Alessandro Quattrociocchi}
 </p>
 

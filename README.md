@@ -3,7 +3,12 @@
 <p align="center">
   <img src="https://github.com/qtt-alessandro/INTERNSHIP-CINECA/blob/main/README_img/logo.jpeg" />
 </p>
-
+<p align="center">
+<h1> Internship project carried out in <br />
+collaboration with the HPC "Cineca" and <br />
+  the University of "La Sapienza" <br />
+from June to September 2021</h1>
+</p>
 <p align="center">
  <b>Faculty of Information Engineering, Informatics and Statistics <br />
 UNIVERSITY OF "LA SAPIENZA" <br />
@@ -28,7 +33,6 @@ activated genes for each class, maximizing activation can result in more signifi
 Regarding the second article, following the computer vision approach presented for the cancer type classification,
 several gradient-based and activation maximization methods are developed. 
 Finally, after identifying the genes that most determined the classification of a cancer type to a given category, the pathways are enriched and the statistical significance of the genes tested.  
-
 
 
 

@@ -3,12 +3,14 @@
 <p align="center">
   <img src="https://github.com/qtt-alessandro/INTERNSHIP-CINECA/blob/main/README_img/logo.jpeg" />
 </p>
+
 <p align="center">
 <h1> Internship project carried out in <br />
 collaboration with the HPC "Cineca" and <br />
   the University of "La Sapienza" <br />
 from June to September 2021</h1>
 </p>
+
 <p align="center">
  <b>Faculty of Information Engineering, Informatics and Statistics <br />
 UNIVERSITY OF "LA SAPIENZA" <br />

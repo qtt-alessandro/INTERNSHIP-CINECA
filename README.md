@@ -1,5 +1,9 @@
 # Biological Interpretability of Deep Neural Network for Cancer Type Prediction
-<i>Internship project carried out in collaboration with the HPC "Cineca" and the University of "La Sapienza"from June to September 2021</i>
+<i>Internship project carried out in collaboration with the HPC "Cineca" and the University of "La Sapienza"from June to September 2021</i>  
+
+<hr style="width:50%", size="3", color=black>  
+
+
 <p align="center">
   <img src="https://github.com/qtt-alessandro/INTERNSHIP-CINECA/blob/main/README_img/logo.jpeg" />
 </p>

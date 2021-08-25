@@ -33,6 +33,7 @@ Finally, after identifying the genes that most determined the classification of 
 
 
 <p align="right">
+<b>This text is bold</b>
 \textbf{Alessandro Quattrociocchi}
 </p>
 

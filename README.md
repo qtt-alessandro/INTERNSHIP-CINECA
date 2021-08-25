@@ -35,7 +35,11 @@ Regarding the second article, following the computer vision approach presented f
 several gradient-based and activation maximization methods are developed. 
 Finally, after identifying the genes that most determined the classification of a cancer type to a given category, the pathways are enriched and the statistical significance of the genes tested.  
 
-
+   
+### Support
+<p>If you have problems viewing one of the Jupyter notebooks, please consider viewing them using nbviewer at the following [link](https://nbviewer.jupyter.org/). <br />
+Just copy the link of the notebook on Git and then press "Go!" to view it. 
+</p>
 
 <p align="right">
  <b>Supervisor:</b> Silvia Gioiosa <br />
@@ -44,8 +48,6 @@ Finally, after identifying the genes that most determined the classification of 
 </p>
 
    
-   ### Support
-If you have problems viewing one of the Jupyter notebooks, please consider viewing them using nbviewer at the following [link](https://nbviewer.jupyter.org/). 
-Just copy the link of the notebook on Git and then press "Go!" to view it. 
+
    
    

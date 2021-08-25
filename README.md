@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-Faculty of Information Engineering, Informatics and Statistics <br />
+ <b>Faculty of Information Engineering, Informatics and Statistics <br />
 UNIVERSITY OF "LA SAPIENZA" <br />
-MSC IN DATA SCIENCE <br />
+MSC IN DATA SCIENCE<b> <br />
 </p>
 
 ## Abstract 

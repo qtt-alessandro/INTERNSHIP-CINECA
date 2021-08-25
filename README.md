@@ -33,9 +33,8 @@ Finally, after identifying the genes that most determined the classification of 
 
 
 <p align="right">
-<b>This text is bold</b>
 <b>Author:</b> Alessandro Quattrociocchi <br />
- <b>Supervisor:</b>Silvia Gioiosa <br />
- <b>Author:</b>Bhaskar Agarwal<br />
+ <b>Supervisor:</b> Silvia Gioiosa <br />
+ <b>Supervisor:</b> Bhaskar Agarwal<br />
 </p>
 

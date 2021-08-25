@@ -43,3 +43,9 @@ Finally, after identifying the genes that most determined the classification of 
   <b>Author:</b> Alessandro Quattrociocchi <br />
 </p>
 
+   
+   ### Support
+If you have problems viewing one of the Jupyter notebooks, please consider viewing them using nbviewer at the following [link](https://nbviewer.jupyter.org/). 
+Just copy the link of the notebook on Git and then press "Go!" to view it. 
+   
+   

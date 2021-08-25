@@ -32,10 +32,10 @@ several gradient-based and activation maximization methods are developed.
 Finally, after identifying the genes that most determined the classification of a cancer type to a given category, the pathways are enriched and the statistical significance of the genes tested.  
 
 <p align="center">
-<h1>Internship project carried out in <br />
+<i>Internship project carried out in <br />
 collaboration with the HPC "Cineca" and <br />
   the University of "La Sapienza" <br />
-from June to September 2021</h1>
+from June to September 2021</i>
 </p>
 
 <p align="right">

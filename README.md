@@ -1,4 +1,4 @@
-# Biological Interpretability of Deep Neural Network for Cancer Type Prediction
+# Biological Interpretability of a Deep Neural Network for Cancer Type Prediction
 <i>Internship project carried out in collaboration with the HPC "Cineca" and the University of "La Sapienza"from June to September 2021</i>  
 
 

@@ -1,2 +1,4 @@
-# MySQL-vs-Neo4j-Project
-This folder contains two projects based on MySQL and Neo4j showing the two different database management systems
+# Cancer type guide
+<p align="center">
+  <img src="https://github.com/qtt-alessandro/INTERNSHIP-CINECA/blob/main/Cluster%20Profiler%20Enrichment/outuput_data/cancer_types_guide.jpg" />
+</p>
